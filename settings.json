@@ -1,0 +1,42 @@
+{
+    "default": {
+        "states": {
+            "token": "adsfsdfasdfasdfasdfasdfadfasdfasdfasdfasdf",
+            "toastActive": 1,
+            "popupActive": 1,
+            "popupWordCount": 120
+        },
+        "hotwords": {
+            "activateBobHotword": "hey bob",
+            "askBardHotword": "ask bard",
+            "youtubeHotword": "find in youtube",
+            "popupHotword": "change state pop up",
+            "searchHotword": "search",
+            "findInformationHotword": "find information",
+            "copyPromptHotword": "copy prompt",
+            "openAppHotword": "open",
+            "closeAppHotword": "close",
+            "killBobHotword": "kill bob"
+        }
+    },
+    "custom": {
+        "states": {
+            "token": "g.a000gggary6i1spgv4pw7cx6dnbbun9tz5oynb7c2vduvjgdrfp0plp8ir5jjkr1cyiyur-tqaacgykatcsaqasfqhgx2miypihkkcdq_qxaf5mgwxysrovauf8ykrqm4fs5cdnaoi9w4rmn9va0076",
+            "toastActive": 1,
+            "popupActive": 1.0,
+            "popupWordCount": 150.0
+        },
+        "hotwords": {
+            "activateBobHotword": "bob",
+            "askBardHotword": "ask the one",
+            "youtubeHotword": "find in youtube",
+            "popupHotword": "change state pop up",
+            "searchHotword": "search",
+            "findInformationHotword": "find information",
+            "copyPromptHotword": "copy prompt",
+            "openAppHotword": "open",
+            "closeAppHotword": "close",
+            "killBobHotword": "kill yourself"
+        }
+    }
+}
